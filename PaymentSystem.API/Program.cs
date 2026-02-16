@@ -27,17 +27,17 @@ builder.Services.AddSwaggerGen(c =>
 O'zbekiston uchun to'lov tizimi - Ro'yxatdan o'tish va to'lovlarni qayd etish.
 
 ## Asosiy Xususiyatlar
-- ✅ Foydalanuvchini ro'yxatdan o'tkazish
+- ✅ Foydalanuvchi ro'yxatdan o'tkazish
 - ✅ To'lovlarni qayd etish (Check fayli bilan)
 - ✅ Pagination bilan ro'yxatlarni olish
-- ✅ O'zbekcha xato xabarlari va LOGlar
+- ✅ O'zbekcha xato xabarlari
 - ✅ Telefon raqam validatsiyasi
 
 ## Telefon Format
 **Qabul qilinadigan format:** `+998 XX XXX XX XX`
 
 **Misollar:**
-- ✅ +998 90 123 45 67
+- ✅+998 90 123 45 67
 - ✅ +998 91 234 56 78
 - ✅ +998901234567 (bo'sh joysiz)
 
